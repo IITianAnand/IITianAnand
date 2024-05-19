@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anand Tripathi
 - 👀 I’m interested in Engineering field 
 - 🌱 I’m currently learning Electronics and Communication Engineering
-- 💞️ I’m looking to collaborate on ``lectonics ystem 
+- 💞️ I’m looking to collaborate on Electonics System 
 - 📫 How to reach me MOB NO. +91 9598780659
 - 😄 Pronouns: He,him,His
 - ⚡ Fun fact: currently a student looking for a internship
